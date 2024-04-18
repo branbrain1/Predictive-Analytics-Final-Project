@@ -5,9 +5,13 @@
 #### The original data set data was pulled from the UC Irvine Machine Learning Repository and can be downloaded directly here: https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
 ## Instalation
 #### Code for installing the required packages for running the codes are included in the files. You will need to have python installed to run the code files on your system.
-#### There are four commit files, one for each model that we explored.
+#### There are three commit files on total for the models that we explored.
 
 ## Usage
+#### Each of us named the original CSV file something different when we started our individual analysis. Simply change the name of the file in the code to read to data. 
+#### For LSTM: og_data.csv
+#### For AR 1 & ARIMA: Metro_Interstate_Traffic_Volume.csv
+#### For SARIMAX: 
 #### Clone the repository to your local machine:
 #### git clone https://github.com/your-username/traffic-volume-prediction.git
 
