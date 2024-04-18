@@ -8,10 +8,10 @@
 #### There are three commit files on total for the models that we explored.
 
 ## Usage
-#### Each of us named the original CSV file something different when we started our individual analysis. Simply change the name of the file in the code to read to data. 
+#### Each of us named the original CSV file something different when we started our individual analysis. We submitted out original CSV file for the project in a zip folder. Simply change the name of the file in the code to read to data. 
 #### For LSTM: og_data.csv
 #### For AR 1 & ARIMA: Metro_Interstate_Traffic_Volume.csv
-#### For SARIMAX: 
+#### For SARIMAX: The Original source data was updated before being read into code. Please use the CSV file titled grouped_records.csv which is included in the submitted zip folder and also linked here.
 #### Clone the repository to your local machine:
 #### git clone https://github.com/your-username/traffic-volume-prediction.git
 
